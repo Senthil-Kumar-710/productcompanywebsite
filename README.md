@@ -36,7 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
-Home Page:
+### Home Page:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -76,7 +76,7 @@ Home Page:
   </body>
 </html>
 
-Product Page:
+### Product Page:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -187,7 +187,7 @@ Product Page:
   </body>
 </html>
 
-People Page:
+### People Page:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -260,7 +260,7 @@ People Page:
 </body>
 </html>
 
-Contact Us Page:
+### Contact Us Page:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -308,7 +308,7 @@ Contact Us Page:
   </body>
 </html>
 
-CSS File:
+### CSS File:
 
 {
   box-sizing: border-box;
