@@ -475,19 +475,19 @@ body {
 
 ### Home Page:
 
-![](images\home.png)
+![Home](images\home.png)
 
 ### Products Page:
 
-![](images\Products.png)
+![Product](images\Products.png)
 
 ### People Page:
 
-![](images\people.png)
+![People](images\people.png)
 
 ### Contact Us Page:
 
-![](images\contactus.png)
+![Contact Us](images\contactus.png)
 
 
 ## Result:
