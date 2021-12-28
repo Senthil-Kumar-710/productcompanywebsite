@@ -475,7 +475,8 @@ body {
 
 ### Home Page:
 
-![](images\home.PNG)
+![home](https://user-images.githubusercontent.com/93860256/147522929-159428e6-27da-4232-9354-36e5c60a81e7.PNG)
+
 
 ### Products Page:
 
