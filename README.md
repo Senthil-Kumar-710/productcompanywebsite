@@ -480,15 +480,20 @@ body {
 
 ### Products Page:
 
-![](images\Products.PNG)
+
+![Products](https://user-images.githubusercontent.com/93860256/147523080-dbc6c342-3492-4746-8223-40ffa396f4a8.PNG)
+
+
 
 ### People Page:
 
-![](images\people.PNG)
+![people](https://user-images.githubusercontent.com/93860256/147523116-18196cb2-04fa-4576-8a6d-393ece3c7973.PNG)
+
 
 ### Contact Us Page:
 
-![](images\contactus.PNG)
+![contactus](https://user-images.githubusercontent.com/93860256/147523145-826408f8-7720-48ed-87a0-f0747c5b6e18.PNG)
+
 
 
 ## Result:
